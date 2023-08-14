@@ -16,6 +16,10 @@ Support and Documentation can be found at https://aigaion.github.io
  * Complete User Management
  * Platform independent, written in PHP/MySQL
 
+## Instalation
+
+Follow instructions from [github project](https://github.com/aigaion/aigaion).
+
 ## Prints
 
 <img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/1.jpeg">
@@ -26,6 +30,3 @@ Support and Documentation can be found at https://aigaion.github.io
 
 <img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/4.jpeg">
 
-## Instalation
-
-Follow instructions from [github project](https://github.com/aigaion/aigaion).
