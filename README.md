@@ -17,7 +17,7 @@ Support and Documentation can be found at https://aigaion.github.io
 ## Prints
 
 <img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/1.jpeg">
-<img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/1.jpeg">
-<img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/1.jpeg">
-<img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/1.jpeg">
+<img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/2.jpeg">
+<img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/3.jpeg">
+<img src="https://github.com/aigaion/aigaion.github.io/blob/main/img/4.jpeg">
 
